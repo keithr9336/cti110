@@ -16,6 +16,7 @@ amount = int(amount_float * 100)
 dollars = amount // 100 # // means integer division
 amount  = amount % 100  # %  means just keep the remainder
 
+
 # TODO: do the rest of the math (25, 10, 5, and 1)
 quarters = 0
 dimes = 0
